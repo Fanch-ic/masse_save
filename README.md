@@ -1,4 +1,4 @@
-Nécessaires : netmiko & pandas
+Nécessaires : netmiko & paramiko & pandas
 
 1. Création de la variable d'environnement en bash
 export DB_PASSWORD="ici_mot_de_passe"
